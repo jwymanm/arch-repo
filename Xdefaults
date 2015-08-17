@@ -1,0 +1,10 @@
+URxvt*borderless: 1
+URxvt*scrollBar:  false
+URxvt.textShadow: true
+URxvt.shadowColor: #000000
+URxvt.depth: 32
+URxvt.background:rgba:1111/1111/1111/aaaa
+URxvt.foreground:#ffffff
+URxvt.font: xft:Inconsolata LGC:style=Regular:pixelsize=14:antialias=true:hinting=true
+URxvt.letterSpace: -2
+URxvt.color12: CornFlowerBlue
